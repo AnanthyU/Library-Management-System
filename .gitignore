@@ -1,0 +1,17 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
